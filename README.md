@@ -2,20 +2,17 @@
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
-# Car Selling Price Prediction
-
 # Demo
 
 link : https://ipl-first-innings-predictor.herokuapp.com/
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
+ ![GIF](https://github.com/preethu19/IPLFirstInningsPrediction/blob/master/IPLFirstInningsPredictor.gif)
 
 # About
 
 This is a sports analytics project created on IPL dataset. It is used to predict first innings score based data of last 5 overs.
-The project can be upgraded using venue and player data upon better data.
 
 # Installation
 
@@ -28,6 +25,11 @@ pip install -r requirements.txt
 ```python
 python app.py
 ```
+
+# Future Scope
+
+• The project can be upgraded using venue and player data upon better data
+• Creating an ANN model
 
 # Technologies Used
 
