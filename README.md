@@ -29,6 +29,7 @@ python app.py
 # Future Scope
 
 • The project can be upgraded using venue and player data upon better data
+
 • Creating an ANN model
 
 # Technologies Used
