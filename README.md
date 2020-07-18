@@ -6,7 +6,7 @@
 
 # Demo
 
-link : https://car-sellingprice-prediction.herokuapp.com/
+link : https://ipl-first-innings-predictor.herokuapp.com/
 
 • A glimpse of the web app:
 
